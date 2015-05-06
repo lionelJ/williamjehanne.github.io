@@ -1,15 +1,22 @@
 ---
 layout: page
-title: About
+title: A propos de moi
 permalink: /about/
 ---
 
-Some information about you!
+Développeur Junior Symfony2 & AngularJs chez DROPCLOUD
 
-### More Information
+### Master Cloud Computing and Mobility
 
-A place to include any other types of information that you'd like to include about yourself.
+Institut Supérieur des Sciences et Techniques
+- PaaS (Google Apps, bigquery, google cloud platform, Amazon AWS, Heroku)
+- Développement objet S.O.L.I.D, Design Pattern
+- WebService JEE
+- Android/ IOS
+- Méthodes Agiles (Scrum, Kamban)
+- Intégration continue (tests unitaires,jenkins etc.)
+- DevOps, Iaas (Virtualisation, Supervision de vm, sécurité réseaux & infrastructures)
 
-### Contact me
+### Me contacter 
 
-[email@domain.com](mailto:email@domain.com)
+[william.jehanne@gmail.com](mailto:william.jehanne@gmail.com)
