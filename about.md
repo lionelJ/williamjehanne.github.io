@@ -8,9 +8,9 @@ Développeur Junior Symfony2 & AngularJs chez DROPCLOUD
 
 ==
 
-### Master Cloud Computing and Mobility
+### Etudiant en Master Cloud Computing and Mobility
 
-Institut Supérieur des Sciences et Techniques
+Institut Supérieur des Sciences et Techniques de Saint-Quentin
 
 * PaaS (Google Apps, bigquery, google cloud platform, Amazon AWS, Heroku)
 
